@@ -1,7 +1,6 @@
--- ============================================
+
 -- ECOMMERCE_SQL_DATABASE – FULL SQL SCRIPT
--- Task 3: SQL for Data Analysis
--- ============================================
+ -- SQL for Data Analysis
 
 -- 1. CREATE DATABASE & USE IT
 CREATE DATABASE Ecommerce_SQL_Database;
